@@ -81,3 +81,6 @@ xcuserdata/
 .DS_Store
 *.zip
 *.pdf
+*.win
+*.dev
+*.layout
